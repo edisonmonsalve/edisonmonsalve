@@ -4,7 +4,6 @@
 
 Building modern web applications through continuous learning and real-world projects.
 
----
 
 ## 🚀 About Me
 
@@ -14,7 +13,7 @@ Building modern web applications through continuous learning and real-world proj
 * 🚀 Building projects to strengthen my professional portfolio
 * 🎯 Looking for my first Software Developer opportunity
 
----
+
 
 ## 💻 Tech Stack
 
@@ -22,7 +21,6 @@ Building modern web applications through continuous learning and real-world proj
   <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,mysql,git,github,vscode,idea,html,css" />
 </p>
 
----
 
 ## 📌 Featured Projects
 
@@ -32,7 +30,6 @@ Building modern web applications through continuous learning and real-world proj
 | ⚽ **APPFC**             | Sports news platform focused on football.                     |
 | 📚 **EMM.dev Handbook** | Documentation of my learning journey and professional growth. |
 
----
 
 ## 🎯 Current Focus
 
@@ -41,7 +38,6 @@ Building modern web applications through continuous learning and real-world proj
 * 🚀 Improving software engineering skills
 * 🎯 Preparing for my first Software Developer role
 
----
 
 ## 📊 GitHub Stats
 
@@ -53,34 +49,20 @@ Building modern web applications through continuous learning and real-world proj
 
 </p>
 
----
+
 
 ## 🤝 Connect with Me
 
-<p align="left">
 <a href="TU_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
- 
 
 <a href="mailto:TU_CORREO">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
- 
-
 <a href="https://github.com/edisonmonsalve">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-
-> *"Building software through continuous learning."*
-
-</p>
 
