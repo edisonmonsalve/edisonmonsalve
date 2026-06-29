@@ -18,7 +18,7 @@ Building modern web applications through continuous learning and real-world proj
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,mysql,git,github,vscode,idea,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,spring,django,react,nodejs,express,mysql,git,github,vscode,idea,vim,html,css" />
 </p>
 
 
@@ -41,14 +41,8 @@ Building modern web applications through continuous learning and real-world proj
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=edisonmonsalve&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonmonsalve&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github streak](https://streak-stats.demolab.com?user=edisonmonsalve&theme=dark&mode=weekly)
 
 
 ## 🤝 Connect with Me
