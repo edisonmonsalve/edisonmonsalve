@@ -1,75 +1,86 @@
-# Hi, I'm Edison Monsalve 👋
+# 👋 Hi, I'm Edison Monsalve
 
-**Analyst & Software Developer**
+### Analyst & Software Developer
 
-I build web applications focused on solving real-world problems through continuous learning, clean code, and modern development practices.
+Building modern web applications through continuous learning and real-world projects.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Focused on Full Stack Web Development
-- 🌱 Currently learning Java, Spring Boot and Software Engineering
-- 🚀 Building projects that strengthen my professional portfolio
-- 🎯 Goal: Land my first Software Developer role
+* 🎓 ADSO Graduate
+* 💻 Focused on Full Stack Web Development
+* 🌱 Currently learning **Java** & **Spring Boot**
+* 🚀 Building projects to strengthen my professional portfolio
+* 🎯 Looking for my first Software Developer opportunity
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-
-JavaScript • Java • SQL
-
-### Frontend
-
-React • HTML • CSS
-
-### Backend
-
-Node.js • Express
-
-### Database
-
-MySQL
-
-### Tools
-
-Git • GitHub • VS Code • IntelliJ IDEA
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,mysql,git,github,vscode,idea,html,css" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-### 📌 TaskFlow
-
-Task management application focused on productivity.
-
-### ⚽ APPFC
-
-Sports news platform.
-
-### 📖 EMM.dev Handbook
-
-Documentation of my professional growth.
+| Project                 | Description                                                   |
+| ----------------------- | ------------------------------------------------------------- |
+| 🚀 **TaskFlow**         | Productivity and task management application.                 |
+| ⚽ **APPFC**             | Sports news platform focused on football.                     |
+| 📚 **EMM.dev Handbook** | Documentation of my learning journey and professional growth. |
 
 ---
 
-## 📈 Currently Working On
+## 🎯 Current Focus
 
-- Improving Java fundamentals
-- Learning Spring Boot
-- Building real-world projects
-- Strengthening software engineering skills
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn
-- Portfolio (Coming Soon)
-- Email
+* 📚 Learning Java & Spring Boot
+* 💻 Building real-world software projects
+* 🚀 Improving software engineering skills
+* 🎯 Preparing for my first Software Developer role
 
 ---
 
-*"Building software through continuous learning."*
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=edisonmonsalve&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonmonsalve&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="TU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+ 
+
+<a href="mailto:TU_CORREO">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+ 
+
+<a href="https://github.com/edisonmonsalve">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Building software through continuous learning."*
+
+</p>
+
